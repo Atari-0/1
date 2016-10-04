@@ -1,0 +1,6 @@
+C:\Users\family\Desktop\Lab 2.5\Lab 2.5\bin\Debug\Lab 2.5.exe.config
+C:\Users\family\Desktop\Lab 2.5\Lab 2.5\bin\Debug\Lab 2.5.exe
+C:\Users\family\Desktop\Lab 2.5\Lab 2.5\bin\Debug\Lab 2.5.pdb
+C:\Users\family\Desktop\Lab 2.5\Lab 2.5\obj\Debug\Lab 2.5.exe
+C:\Users\family\Desktop\Lab 2.5\Lab 2.5\obj\Debug\Lab 2.5.pdb
+C:\Users\family\Desktop\Lab 2.5\Lab 2.5\obj\Debug\Lab 2.5.csprojResolveAssemblyReference.cache
