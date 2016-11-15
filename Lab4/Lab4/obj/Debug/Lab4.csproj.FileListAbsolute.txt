@@ -1,0 +1,6 @@
+c:\users\family\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\family\Documents\Visual Studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\family\Documents\Visual Studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\family\Documents\Visual Studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\family\Documents\Visual Studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\family\Documents\Visual Studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
