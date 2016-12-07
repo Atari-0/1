@@ -23,12 +23,12 @@ namespace Lab3._5
             mike.SetStudentGrade(melissa, 90);
             mike.SetStudentGrade(matt, 92);
 
-            jane.Information();
-            joe.Information();
-            melissa.Information();
-            matt.Information();
-
-          
+            jane.PrintInformation();
+            joe.PrintInformation();
+            melissa.PrintInformation();
+            matt.PrintInformation();
+            
+            System.Threading.Thread.Sleep(3000);
         }
     }
 }
