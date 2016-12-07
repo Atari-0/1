@@ -12,7 +12,11 @@ namespace Lab3._5
         private Instructor Teacher;
         private int Grade;
 
-        public Student(string Name, Instructor Teacher, int Grade=0) { }
+        public Student(string Name, Instructor Teacher, int Grade=0) 
+        {
+            this.Name = Name;
+            this.Teacher = Teacher; 
+        }
 
         public int RetrieveGrade() { return this.Grade; }
 
