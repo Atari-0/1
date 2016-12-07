@@ -21,8 +21,10 @@ namespace Lab3._5
         public int RetrieveGrade() { return this.Grade; }
 
         public void SetGrade(int x) { this.Grade = x; }
-
-        public void PrintInformation() { System.Console.WriteLine(Name, Teacher, Grade); }
+        
+        public Instructor GetTeacher() { return this.Teacher; }
+        
+        public void PrintInformation() { System.Console.WriteLine(Name, GetTeacher(), Grade); }
 
 
     }
