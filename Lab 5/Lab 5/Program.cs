@@ -15,7 +15,7 @@ namespace Lab_5
             int destinationx;
             int destinationy;
         
-            string[,] board = new string[8, 8] 
+            string[,] board = new string[8, 8] //shout out to mad max for his much more clear and readable board. Couldn't figure out how to make one this clear.
             {
 
                 {"X","X","X","X","X","X","X","X"},
@@ -40,7 +40,7 @@ namespace Lab_5
             destinationy = int.Parse(System.Console.ReadLine());
 
 
-            if (destinationx<8&&destinationy<8)
+            if (targetx<8&&targety<8&&destinationx<8&&destinationy<8)
             {
                 board[targetx, targety] = board[destinationx, destinationy];
                 board[targetx, targety] = " ";
