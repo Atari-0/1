@@ -64,7 +64,7 @@ namespace Lab_5
                 destinationx = int.Parse(System.Console.ReadLine());
                 System.Console.WriteLine("Where would you like to move that Y coordinate to?");
                 destinationy = int.Parse(System.Console.ReadLine());
-                if (destinationx < 8 && destinationy < 8)
+                if (targetx<8&&targety<8&&destinationx < 8 && destinationy < 8)
                 {
                     board[targetx, targety] = board[destinationx, destinationy];
                     board[targetx, targety] = " ";
