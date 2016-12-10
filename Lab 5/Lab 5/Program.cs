@@ -53,7 +53,7 @@ namespace Lab_5
                 System.Threading.Thread.Sleep(3000);
                 Environment.Exit(0);
             }
-            while (0)
+            while (1)
             {
                 showBoard(board);
                 System.Console.WriteLine("What X coordinate would you like to move?");
