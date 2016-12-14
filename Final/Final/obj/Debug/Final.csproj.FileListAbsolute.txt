@@ -1,0 +1,6 @@
+c:\users\family\documents\visual studio 2015\Projects\Final\Final\bin\Debug\Final.exe.config
+c:\users\family\documents\visual studio 2015\Projects\Final\Final\bin\Debug\Final.exe
+c:\users\family\documents\visual studio 2015\Projects\Final\Final\bin\Debug\Final.pdb
+c:\users\family\documents\visual studio 2015\Projects\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+c:\users\family\documents\visual studio 2015\Projects\Final\Final\obj\Debug\Final.exe
+c:\users\family\documents\visual studio 2015\Projects\Final\Final\obj\Debug\Final.pdb
